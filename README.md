@@ -1,5 +1,3 @@
 ## Hi, I'm Nils 👋
-
-I’m a Master’s student in Mathematics in Data Science at TUM, specializing on machine learning on graphs and cloud computing. Currently, I am working on my Master’s thesis with the [DAML](https://www.cs.cit.tum.de/en/daml/home/) group, where I focus on applying generative models to hierarchical graphs. Besides my thesis, I am working as a backend developer at [Articly](https://www.articly.de), where we push the limits on AI-based audio products.
-
-As I complete my studies at the end of this year, I am seeking new challenges and opportunities. If you’re interested, please feel free to reach out via [mail](mailto:nils.fleischmann@tum.de).
+ 
+I’m a Machine Learning Research Engineer at Pruna, where I focus on making generative models smaller, faster, and more sustainable. Before that, I completed a Master’s in Data Science at TUM and EPFL, specializing in machine learning on graphs and cloud computing. This GitHub account showcases some of my hobby projects, which mostly revolve around data science and generative models.
